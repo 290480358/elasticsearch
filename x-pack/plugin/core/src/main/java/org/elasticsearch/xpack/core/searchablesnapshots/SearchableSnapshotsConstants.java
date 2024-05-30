@@ -17,7 +17,7 @@ public class SearchableSnapshotsConstants {
     public static final LicensedFeature.Momentary SEARCHABLE_SNAPSHOT_FEATURE = LicensedFeature.momentary(
         null,
         "searchable-snapshots",
-        License.OperationMode.ENTERPRISE
+        License.OperationMode.PLATINUM
     );
 
 }
